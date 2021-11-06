@@ -1,0 +1,13 @@
+# ninja log v5
+3	563	6579199626664147	build.ninja	99470f85c181d756
+27	1725	6579194433738905	Inheritance_autogen/timestamp	47174fa2bdbffbe6
+1130	5128	6579130737763960	CMakeFiles/Inheritance.dir/animal.cpp.obj	13b6bb2077b0aa52
+27	1725	6579194433738905	C:/Users/NWANKITI UGOCHUKWU/Desktop/CPP ++/My C++ Projects/build-Inheritance-Desktop_Qt_6_2_1_MinGW_64_bit-Debug/Inheritance_autogen/mocs_compilation.cpp	47174fa2bdbffbe6
+27	1725	6579194433738905	Inheritance_autogen/mocs_compilation.cpp	47174fa2bdbffbe6
+27	1725	6579194433738905	C:/Users/NWANKITI UGOCHUKWU/Desktop/CPP ++/My C++ Projects/build-Inheritance-Desktop_Qt_6_2_1_MinGW_64_bit-Debug/Inheritance_autogen/timestamp	47174fa2bdbffbe6
+5760	12129	6579194540233499	CMakeFiles/Inheritance.dir/Inheritance_autogen/mocs_compilation.cpp.obj	f1fb59ac9ede63e7
+1726	5759	6579194476532617	CMakeFiles/Inheritance.dir/main.cpp.obj	36ee5cde411266a3
+12130	12691	6579194545760096	Inheritance.exe	1c3f35451b97ce90
+5764	11963	6579194538414620	CMakeFiles/Inheritance.dir/mammal.cpp.obj	e0ffa1b33f64da51
+5772	11953	6579194538304686	CMakeFiles/Inheritance.dir/cat.cpp.obj	efa2dc49401f85ea
+5768	11964	6579194538354661	CMakeFiles/Inheritance.dir/dog.cpp.obj	ab9943a06334e346

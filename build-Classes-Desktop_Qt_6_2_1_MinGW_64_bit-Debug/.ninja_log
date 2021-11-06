@@ -1,0 +1,38 @@
+# ninja log v5
+6	603	6578920869960509	build.ninja	f08edea1d31ee4db
+3	1314	6578920882083987	Classes_autogen/timestamp	5c8dfc4dd7f40e46
+3	1314	6578920882083987	Classes_autogen/mocs_compilation.cpp	5c8dfc4dd7f40e46
+3	1314	6578920882083987	C:/Users/NWANKITI UGOCHUKWU/Desktop/CPP ++/My C++ Projects/QT6 CORE BEGINNERS COURSE/build-Classes-Desktop_Qt_6_2_1_MinGW_64_bit-Debug/Classes_autogen/timestamp	5c8dfc4dd7f40e46
+3	1314	6578920882083987	C:/Users/NWANKITI UGOCHUKWU/Desktop/CPP ++/My C++ Projects/QT6 CORE BEGINNERS COURSE/build-Classes-Desktop_Qt_6_2_1_MinGW_64_bit-Debug/Classes_autogen/mocs_compilation.cpp	5c8dfc4dd7f40e46
+1315	5237	6578920923818218	CMakeFiles/Classes.dir/Classes_autogen/mocs_compilation.cpp.obj	dd955c11189267f4
+1319	5373	6578920925177366	CMakeFiles/Classes.dir/animal.cpp.obj	9fbd63a3ecc16d6
+1323	6080	6578920932263002	CMakeFiles/Classes.dir/main.cpp.obj	bd7017415dfc755f
+6081	6480	6578920936200589	Classes.exe	4a38d87bc6694f45
+14	1362	6578927340258441	Classes_autogen/timestamp	5c8dfc4dd7f40e46
+14	1362	6578927340258441	Classes_autogen/mocs_compilation.cpp	5c8dfc4dd7f40e46
+14	1362	6578927340258441	C:/Users/NWANKITI UGOCHUKWU/Desktop/CPP ++/My C++ Projects/QT6 CORE BEGINNERS COURSE/build-Classes-Desktop_Qt_6_2_1_MinGW_64_bit-Debug/Classes_autogen/timestamp	5c8dfc4dd7f40e46
+14	1362	6578927340258441	C:/Users/NWANKITI UGOCHUKWU/Desktop/CPP ++/My C++ Projects/QT6 CORE BEGINNERS COURSE/build-Classes-Desktop_Qt_6_2_1_MinGW_64_bit-Debug/Classes_autogen/mocs_compilation.cpp	5c8dfc4dd7f40e46
+1368	6320	6578927392396225	CMakeFiles/Classes.dir/Classes_autogen/mocs_compilation.cpp.obj	dd955c11189267f4
+1372	6345	6578927392616094	CMakeFiles/Classes.dir/animal.cpp.obj	9fbd63a3ecc16d6
+1363	6947	6578927398712339	CMakeFiles/Classes.dir/main.cpp.obj	bd7017415dfc755f
+6948	7405	6578927403199546	Classes.exe	4a38d87bc6694f45
+26	1473	6578928889719459	Classes_autogen/timestamp	5c8dfc4dd7f40e46
+26	1473	6578928889719459	Classes_autogen/mocs_compilation.cpp	5c8dfc4dd7f40e46
+26	1473	6578928889719459	C:/Users/NWANKITI UGOCHUKWU/Desktop/CPP ++/My C++ Projects/QT6 CORE BEGINNERS COURSE/build-Classes-Desktop_Qt_6_2_1_MinGW_64_bit-Debug/Classes_autogen/timestamp	5c8dfc4dd7f40e46
+26	1473	6578928889719459	C:/Users/NWANKITI UGOCHUKWU/Desktop/CPP ++/My C++ Projects/QT6 CORE BEGINNERS COURSE/build-Classes-Desktop_Qt_6_2_1_MinGW_64_bit-Debug/Classes_autogen/mocs_compilation.cpp	5c8dfc4dd7f40e46
+1479	6464	6578928942446897	CMakeFiles/Classes.dir/Classes_autogen/mocs_compilation.cpp.obj	dd955c11189267f4
+1483	6473	6578928942606796	CMakeFiles/Classes.dir/animal.cpp.obj	9fbd63a3ecc16d6
+1474	7037	6578928948323255	CMakeFiles/Classes.dir/main.cpp.obj	bd7017415dfc755f
+7038	7491	6578928952750515	Classes.exe	4a38d87bc6694f45
+17	485	6578929250824470	Classes_autogen/timestamp	5c8dfc4dd7f40e46
+17	485	6578929250824470	Classes_autogen/mocs_compilation.cpp	5c8dfc4dd7f40e46
+17	485	6578929250824470	C:/Users/NWANKITI UGOCHUKWU/Desktop/CPP ++/My C++ Projects/QT6 CORE BEGINNERS COURSE/build-Classes-Desktop_Qt_6_2_1_MinGW_64_bit-Debug/Classes_autogen/timestamp	5c8dfc4dd7f40e46
+17	485	6578929250824470	C:/Users/NWANKITI UGOCHUKWU/Desktop/CPP ++/My C++ Projects/QT6 CORE BEGINNERS COURSE/build-Classes-Desktop_Qt_6_2_1_MinGW_64_bit-Debug/Classes_autogen/mocs_compilation.cpp	5c8dfc4dd7f40e46
+515	3848	6578929284503705	CMakeFiles/Classes.dir/animal.cpp.obj	9fbd63a3ecc16d6
+3849	4268	6578929288621158	Classes.exe	4a38d87bc6694f45
+16	476	6578931524002373	Classes_autogen/timestamp	5c8dfc4dd7f40e46
+16	476	6578931524002373	Classes_autogen/mocs_compilation.cpp	5c8dfc4dd7f40e46
+16	476	6578931524002373	C:/Users/NWANKITI UGOCHUKWU/Desktop/CPP ++/My C++ Projects/QT6 CORE BEGINNERS COURSE/build-Classes-Desktop_Qt_6_2_1_MinGW_64_bit-Debug/Classes_autogen/timestamp	5c8dfc4dd7f40e46
+16	476	6578931524002373	C:/Users/NWANKITI UGOCHUKWU/Desktop/CPP ++/My C++ Projects/QT6 CORE BEGINNERS COURSE/build-Classes-Desktop_Qt_6_2_1_MinGW_64_bit-Debug/Classes_autogen/mocs_compilation.cpp	5c8dfc4dd7f40e46
+498	4298	6578931562228791	CMakeFiles/Classes.dir/main.cpp.obj	bd7017415dfc755f
+4299	4671	6578931565886497	Classes.exe	4a38d87bc6694f45

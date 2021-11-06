@@ -1,0 +1,8 @@
+# ninja log v5
+3	426	6577580302702787	Dog_calc_autogen/timestamp	f105d632802ece43
+3	426	6577580302702787	Dog_calc_autogen/mocs_compilation.cpp	f105d632802ece43
+3	426	6577580302702787	C:/Users/NWANKITI UGOCHUKWU/Desktop/CPP ++/My C++ Projects/build-Dog_calc-Desktop_Qt_6_2_1_MinGW_64_bit-Debug/Dog_calc_autogen/timestamp	f105d632802ece43
+3	426	6577580302702787	C:/Users/NWANKITI UGOCHUKWU/Desktop/CPP ++/My C++ Projects/build-Dog_calc-Desktop_Qt_6_2_1_MinGW_64_bit-Debug/Dog_calc_autogen/mocs_compilation.cpp	f105d632802ece43
+428	662	6577580306590390	CMakeFiles/Dog_calc.dir/Dog_calc_autogen/mocs_compilation.cpp.obj	59ceeb112c32e301
+432	4694	6577580346915578	CMakeFiles/Dog_calc.dir/main.cpp.obj	425ffe88e6a99984
+4700	5041	6577580350293525	Dog_calc.exe	891a02d09ef47248

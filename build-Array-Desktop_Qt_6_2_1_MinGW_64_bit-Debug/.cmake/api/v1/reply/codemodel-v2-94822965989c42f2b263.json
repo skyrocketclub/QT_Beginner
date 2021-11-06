@@ -1,0 +1,78 @@
+{
+	"configurations" : 
+	[
+		{
+			"directories" : 
+			[
+				{
+					"build" : ".",
+					"jsonFile" : "directory-.-Debug-d0094a50bb2071803777.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.16"
+					},
+					"projectIndex" : 0,
+					"source" : ".",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2
+					]
+				}
+			],
+			"name" : "Debug",
+			"projects" : 
+			[
+				{
+					"directoryIndexes" : 
+					[
+						0
+					],
+					"name" : "Array",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2
+					]
+				}
+			],
+			"targets" : 
+			[
+				{
+					"directoryIndex" : 0,
+					"id" : "Array::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-Array-Debug-d88e97b83a5810c29850.json",
+					"name" : "Array",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "Array_autogen::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-Array_autogen-Debug-8981c9c7053d5bb1841b.json",
+					"name" : "Array_autogen",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "Array_autogen_timestamp_deps::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-Array_autogen_timestamp_deps-Debug-24f77a59508ca853c864.json",
+					"name" : "Array_autogen_timestamp_deps",
+					"projectIndex" : 0
+				}
+			]
+		}
+	],
+	"kind" : "codemodel",
+	"paths" : 
+	{
+		"build" : "C:/Users/NWANKITI UGOCHUKWU/Desktop/CPP ++/My C++ Projects/build-Array-Desktop_Qt_6_2_1_MinGW_64_bit-Debug",
+		"source" : "C:/Users/NWANKITI UGOCHUKWU/Desktop/CPP ++/My C++ Projects/Array"
+	},
+	"version" : 
+	{
+		"major" : 2,
+		"minor" : 3
+	}
+}
