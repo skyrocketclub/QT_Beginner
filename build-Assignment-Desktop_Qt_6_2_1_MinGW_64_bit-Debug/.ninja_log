@@ -1,0 +1,9 @@
+# ninja log v5
+2	1872	6580982321775072	Assignment_autogen/timestamp	8b410614a8b421d9
+2	1872	6580982321775072	Assignment_autogen/mocs_compilation.cpp	8b410614a8b421d9
+2	1872	6580982321775072	C:/Users/NWANKITI UGOCHUKWU/Desktop/CPP ++/My C++ Projects/build-Assignment-Desktop_Qt_6_2_1_MinGW_64_bit-Debug/Assignment_autogen/timestamp	8b410614a8b421d9
+2	1872	6580982321775072	C:/Users/NWANKITI UGOCHUKWU/Desktop/CPP ++/My C++ Projects/build-Assignment-Desktop_Qt_6_2_1_MinGW_64_bit-Debug/Assignment_autogen/mocs_compilation.cpp	8b410614a8b421d9
+1873	8138	6580982387354211	CMakeFiles/Assignment.dir/Assignment_autogen/mocs_compilation.cpp.obj	c3ee4b2189d5ea60
+1882	8190	6580982387927556	CMakeFiles/Assignment.dir/cat.cpp.obj	34177b942d46b294
+1878	8817	6580982394283271	CMakeFiles/Assignment.dir/main.cpp.obj	2a923c52c0a56480
+8818	9315	6580982399236135	Assignment.exe	bf4eef30fb8e85a9

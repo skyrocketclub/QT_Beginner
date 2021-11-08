@@ -1,0 +1,15 @@
+# ninja log v5
+3	1846	6580970302670743	Age_Calc_autogen/timestamp	7ee4be3f2f5ae722
+3	1846	6580970302670743	Age_Calc_autogen/mocs_compilation.cpp	7ee4be3f2f5ae722
+3	1846	6580970302670743	C:/Users/NWANKITI UGOCHUKWU/Desktop/CPP ++/My C++ Projects/build-Age_Calc-Desktop_Qt_6_2_1_MinGW_64_bit-Debug/Age_Calc_autogen/timestamp	7ee4be3f2f5ae722
+3	1846	6580970302670743	C:/Users/NWANKITI UGOCHUKWU/Desktop/CPP ++/My C++ Projects/build-Age_Calc-Desktop_Qt_6_2_1_MinGW_64_bit-Debug/Age_Calc_autogen/mocs_compilation.cpp	7ee4be3f2f5ae722
+1852	6840	6580970355747515	CMakeFiles/Age_Calc.dir/age_calc.cpp.obj	88b530310a16db63
+1848	6901	6580970356520881	CMakeFiles/Age_Calc.dir/Age_Calc_autogen/mocs_compilation.cpp.obj	a71e0f5b7013960e
+1856	8021	6580970367705824	CMakeFiles/Age_Calc.dir/main.cpp.obj	b3c3967f7df6b244
+8022	8517	6580970372649185	Age_Calc.exe	2f7271b5a56fec30
+23	573	6580970848861711	Age_Calc_autogen/timestamp	7ee4be3f2f5ae722
+23	573	6580970848861711	Age_Calc_autogen/mocs_compilation.cpp	7ee4be3f2f5ae722
+23	573	6580970848861711	C:/Users/NWANKITI UGOCHUKWU/Desktop/CPP ++/My C++ Projects/build-Age_Calc-Desktop_Qt_6_2_1_MinGW_64_bit-Debug/Age_Calc_autogen/timestamp	7ee4be3f2f5ae722
+23	573	6580970848861711	C:/Users/NWANKITI UGOCHUKWU/Desktop/CPP ++/My C++ Projects/build-Age_Calc-Desktop_Qt_6_2_1_MinGW_64_bit-Debug/Age_Calc_autogen/mocs_compilation.cpp	7ee4be3f2f5ae722
+594	5030	6580970893494535	CMakeFiles/Age_Calc.dir/main.cpp.obj	b3c3967f7df6b244
+5031	5428	6580970897380815	Age_Calc.exe	2f7271b5a56fec30
