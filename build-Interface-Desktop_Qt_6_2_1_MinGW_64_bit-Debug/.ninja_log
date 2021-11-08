@@ -1,0 +1,9 @@
+# ninja log v5
+2	2022	6580163431211946	Interface_autogen/timestamp	7a70a11697dd432a
+2	2022	6580163431211946	Interface_autogen/mocs_compilation.cpp	7a70a11697dd432a
+2	2022	6580163431211946	C:/Users/NWANKITI UGOCHUKWU/Desktop/CPP ++/My C++ Projects/build-Interface-Desktop_Qt_6_2_1_MinGW_64_bit-Debug/Interface_autogen/timestamp	7a70a11697dd432a
+2	2022	6580163431211946	C:/Users/NWANKITI UGOCHUKWU/Desktop/CPP ++/My C++ Projects/build-Interface-Desktop_Qt_6_2_1_MinGW_64_bit-Debug/Interface_autogen/mocs_compilation.cpp	7a70a11697dd432a
+2028	8377	6580163498100755	CMakeFiles/Interface.dir/appliance.cpp.obj	d22f0580bcf6dd7b
+2023	8396	6580163498380585	CMakeFiles/Interface.dir/Interface_autogen/mocs_compilation.cpp.obj	7fb676aa3f3fadfa
+2032	9098	6580163505456232	CMakeFiles/Interface.dir/main.cpp.obj	6efb4697317df576
+9099	9541	6580163509853528	Interface.exe	5382eaa84f40e6aa
